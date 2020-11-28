@@ -9,11 +9,9 @@
 
 - 💬 Ask me about **C#, C/C++, Python & NodeJS**
 
-- 📫 How to reach me **https://www.linkedin.com/in/wizlee/**
+- 📫 How to reach me -> **https://www.linkedin.com/in/wizlee/**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/wizlee/](https://www.linkedin.com/in/wizlee/)
-
-- ⚡ Fun fact **I enjoy sports and outdoor activity**
+- ⚡ Fun fact -> **I enjoy sports and outdoor activity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
