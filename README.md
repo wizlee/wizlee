@@ -27,5 +27,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wizlee&show_icons=true&title_color=000000&locale=en&layout=compact" alt="wizlee" /></p>
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
