@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/wiz_zh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="wiz_zh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/wizlee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="wizlee" height="30" width="40" /></a>
+<a href="https://twitter.com/wiz_zh" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="wiz_zh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/wizlee" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="wizlee" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,10 +31,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-
+<hr>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wizlee&show_icons=true&title_color=000000&locale=en&layout=compact" alt="wizlee" /></p>
-
 <hr>
 
 <h3 align="left">📊 Weekly development breakdown: </h3>
@@ -51,3 +50,7 @@ Markdown     1 hr 32 mins    ██░░░░░░░░░░░░░░░
 
 <hr>
 
+<h3 align="left">💳 Credits & Source: </h3>
+- Programming Languages icons from [community-curated github 'explore'](https://github.com/github/explore/tree/master/topics)
+- Social icon assets from [peterthehan repo](https://github.com/peterthehan/peterthehan/tree/master/assets)
+- Weekly dev stats from [Athul's Waka Github Action](https://github.com/athul/waka-readme)
