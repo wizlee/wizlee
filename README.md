@@ -13,11 +13,14 @@
 
 - ⚡ Fun fact -> **I enjoy sports and outdoor activity**
 
+<hr>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/wiz_zh" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="wiz_zh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/wizlee" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="wizlee" height="30" width="40" /></a>
 </p>
+<hr>
 
 <h3 align="left">🧰 All Languages and Tools:</h3>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
