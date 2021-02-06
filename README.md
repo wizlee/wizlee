@@ -36,9 +36,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <hr>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wizlee&show_icons=true&custom_title=Most%20Used%20Languages%20in%20Github&title_color=000000&locale=en&layout=compact" alt="wizlee" /></p>
-<hr>
-
 <h3 align="left">📊 Weekly development breakdown: </h3>
 
 <!--START_SECTION:waka-->
@@ -50,7 +47,9 @@ Other        2 hrs 17 mins   ██▓░░░░░░░░░░░░░░
 Markdown     1 hr 32 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
 ```
 <!--END_SECTION:waka-->
+<hr>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wizlee&show_icons=true&custom_title=Most%20Used%20Languages%20in%20Github&title_color=000000&locale=en&layout=compact" alt="wizlee" /></p>
 <hr>
 
 <h3 align="left">💳 Credits & Source: </h3>
