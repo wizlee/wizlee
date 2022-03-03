@@ -41,8 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C#              7 hrs 58 mins   ███████████▒░░░░░░░░░░░░░   45.94 %
-Other           4 hrs 16 mins   ██████░░░░░░░░░░░░░░░░░░░   24.65 %
+Other           4 hrs 32 mins   ███████▓░░░░░░░░░░░░░░░░░   31.10 %
 ```
 
 <!--END_SECTION:waka-->
