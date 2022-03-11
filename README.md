@@ -41,9 +41,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown        4 hrs 49 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
-Python          4 hrs 45 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.05 %
-Other           4 hrs 40 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
+Vue.js          7 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░░░   23.88 %
+Other           4 hrs 17 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
 ```
 
 <!--END_SECTION:waka-->
