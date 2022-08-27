@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my portfolio site](https://wizlee.dev)
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning **practical cybersecurity hands-on using tryhackme**
 
 - 👨‍💻 All of my projects are available at [https://wizlee.dev](https://wizlee.dev)
 
