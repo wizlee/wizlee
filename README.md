@@ -20,8 +20,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/wiz_zh" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="wiz_zh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/wizlee" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="wizlee" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/wizlee" target="blank"><img align="center" src="assets/linkedin.svg" alt="wizlee" height="30" width="40" /></a>
+<a href="https://infosec.exchange/@wizlee" target="blank"><img align="center" src="assets/mastodon.svg" alt="wizlee" height="30" width="40" /></a>
+<a href="https://twitter.com/wiz_zh" target="blank"><img align="center" src="assets/twitter.svg" alt="wiz_zh" height="30" width="40" /></a>
 </p>
 <hr>
 
