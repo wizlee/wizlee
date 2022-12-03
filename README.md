@@ -3,11 +3,14 @@
 
 - 🔭 I’m currently working on [my portfolio site](https://wizlee.dev)
 
-- 🌱 I’m currently learning **practical cybersecurity hands-on** using [tryhackme](https://tryhackme.com/p/wizlee)
+- 🌱 I’m currently learning 
+  - **practical cybersecurity hands-on** using [tryhackme](https://tryhackme.com/p/wizlee)
+  - [machine learning](https://github.com/wizlee/explore-pytorch) by building a custom model using pytorch based on RestNext50 and InceptionV3.
 
-- 👨‍💻 All of my projects are available at [https://wizlee.dev](https://wizlee.dev)
+- 👨‍💻 Project highlights are available at [https://wizlee.dev](https://wizlee.dev)
+  - Honourable and non-honourable projects are published as public repos in github.
 
-- 💬 Ask me about **C#, C/C++, Python & NodeJS**
+- 💬 Ask me about anything tech!
 
 - 📫 How to reach me -> **https://www.linkedin.com/in/wizlee/**
 
