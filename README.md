@@ -45,11 +45,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Batchfile    2 hrs 4 mins    ██████░░░░░░░░░░░░░░░░░░░   24.65 %
-PowerShell   1 hr 54 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.54 %
-JSON         1 hr 12 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
-TypeScript   1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 %
-Other        50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
+PowerShell   1 hr 53 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.14 %
+Batchfile    1 hr 51 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.61 %
+JSON         1 hr 12 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
+TypeScript   1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
+Other        50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
 ```
 
 <!--END_SECTION:waka-->
