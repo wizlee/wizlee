@@ -45,11 +45,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML           23 mins         ██████████████▓░░░░░░░░░░   58.37 %
-Bash           9 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.92 %
-CBM BASIC V2   5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 %
-INI            1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-Markdown       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
