@@ -45,7 +45,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML             20 mins         ████████████░░░░░░░░░░░░░   47.64 %
+Bash             20 mins         ████████████░░░░░░░░░░░░░   47.45 %
+GDScript         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+Markdown         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Ezhil            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
