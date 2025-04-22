@@ -45,11 +45,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON                 4 hrs 29 mins   ██████████░░░░░░░░░░░░░░░   39.63 %
-Scala                1 hr 33 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 %
-Other                1 hr 31 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
-TypeScript           1 hr 20 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
-reStructuredText     44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+JSON                 4 hrs 27 mins   █████████▓░░░░░░░░░░░░░░░   38.48 %
+Scala                1 hr 33 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
+Other                1 hr 19 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
+TypeScript           1 hr 9 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
+reStructuredText     44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
 ```
 
 <!--END_SECTION:waka-->
