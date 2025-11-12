@@ -45,11 +45,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other                25 hrs 56 mins  ██████████████████░░░░░░░   71.45 %
-Python               7 hrs 29 mins   █████░░░░░░░░░░░░░░░░░░░░   20.66 %
-JSON with Comments   33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-TypeScript           32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-YAML                 31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Other                28 hrs 38 mins  ███████████████████░░░░░░   75.35 %
+Python               6 hrs 46 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.84 %
+JSON with Comments   31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+YAML                 31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+TypeScript           26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 ```
 
 <!--END_SECTION:waka-->
