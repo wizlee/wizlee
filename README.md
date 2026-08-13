@@ -45,11 +45,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown             2 hrs 17 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.91 %
-Bash                 1 hr 14 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.05 %
-JSON with Comments   1 hr 5 mins           ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
-Terraform            55 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
-Other                50 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
+Other                4 hrs 28 mins         ████████████▓░░░░░░░░░░░░   50.73 %
+JSON with Comments   1 hr 5 mins           ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
+Markdown             57 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
+Bash                 47 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+Terraform            38 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
 ```
 
 <!--END_SECTION:waka-->
